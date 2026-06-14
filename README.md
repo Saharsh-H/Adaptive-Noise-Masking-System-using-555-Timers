@@ -126,7 +126,7 @@ The complete design, circuit schematics, simulation results, and project details
 
 ## 👥 Credits & Contributors
 
-This project was created as part of the **Electronics Lab course at IIIT Bangalore**.
+This project was created as part of the **Analog Circuits Lab course at IIIT Bangalore**.
 
 **Contributors:**
 - Abel B Aliyas
